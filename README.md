@@ -1,6 +1,9 @@
 
 https://jparkeen.github.io
 
+https://hackerrank.com/jparkeen
+
+https://www.linkedin.com/in/jirat-parkeenvincha-840807137
 
 
 ## Copyright and License
