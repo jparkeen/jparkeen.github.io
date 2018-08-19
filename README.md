@@ -1,10 +1,15 @@
 
+## Personal webpage
+
 https://jparkeen.github.io
+
+## hackerrank page
 
 https://hackerrank.com/jparkeen
 
-https://www.linkedin.com/in/jirat-parkeenvincha-840807137
+## linkedin page
 
+https://www.linkedin.com/in/jirat-parkeenvincha-840807137
 
 ## Copyright and License
 
