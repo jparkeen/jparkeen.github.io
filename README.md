@@ -3,10 +3,6 @@
 
 https://jparkeen.github.io
 
-## hackerrank page
-
-https://hackerrank.com/jparkeen
-
 ## linkedin page
 
 https://www.linkedin.com/in/jirat-parkeenvincha-840807137
