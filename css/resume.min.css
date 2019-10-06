@@ -213,3 +213,12 @@ body{
     text-align:center;
     width: 70%
 }
+
+.no-margin{
+  margin-left: 0;
+}
+
+.no-padding{
+  margin-top: 20px;
+  padding: 0px;
+}
