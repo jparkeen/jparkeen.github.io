@@ -222,3 +222,7 @@ body{
   margin-top: 20px;
   padding: 0px;
 }
+
+.expr-font-size{
+  font-size: 0.8rem;
+}
