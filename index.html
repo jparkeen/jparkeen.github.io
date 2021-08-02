@@ -552,17 +552,25 @@ easily over a new property without jumping through any unnecessary hoops.</h6>
         imgText.innerHTML = imgs.alt;
         expandImg.parentElement.style.display = "block";
     }
+    function showWakfu() {
+      document.getElementById('wakfu_project').style.display = "block";
+      document.getElementById('essos_project').style.display = "none";
+      document.getElementById('tanks_project').style.display = "none";
+      document.getElementById('lazarus_project').style.display = "none";
 
+    }
     function showEssos() {
       document.getElementById('essos_project').style.display = "block";
       document.getElementById('tanks_project').style.display = "none";
       document.getElementById('lazarus_project').style.display = "none";
+      document.getElementById('wakfu_project').style.display = "none";
 
     }
     function showTanks() {
       document.getElementById('tanks_project').style.display = "block";
       document.getElementById('lazarus_project').style.display = "none";
       document.getElementById('essos_project').style.display = "none";
+      document.getElementById('wakfu_project').style.display = "none";
 
 
     }
@@ -570,6 +578,7 @@ easily over a new property without jumping through any unnecessary hoops.</h6>
       document.getElementById('lazarus_project').style.display = "block";
       document.getElementById('essos_project').style.display = "none";
       document.getElementById('tanks_project').style.display = "none";
+      document.getElementById('wakfu_project').style.display = "none";
 
     }
     </script>
